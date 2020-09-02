@@ -1,3 +1,3 @@
 
 
-![draw.io-plugin-popup](/KataSandwich.xml)
+![draw.io-plugin-popup](/KataSandwich.png)
